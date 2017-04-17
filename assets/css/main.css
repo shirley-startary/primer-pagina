@@ -192,4 +192,5 @@ header{
 }
 .cerrar:hover{
   background-color: rgba(80, 211, 163, 1);
+  color: white;
 }
